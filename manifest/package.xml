@@ -1514,6 +1514,11 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>MyDashboard</members>
+        <members>MyDashboard/PuLbOetOQFcDdzefamXAvgOPuizTKy</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
         <members>Account.Standard_Account_Duplicate_Rule</members>
         <members>Contact.Standard_Contact_Duplicate_Rule</members>
         <members>Lead.Standard_Lead_Duplicate_Rule</members>
@@ -1858,6 +1863,9 @@
         <name>RemoteSiteSetting</name>
     </types>
     <types>
+        <members>unfiled$public/Copy_of_New_Accounts_Report_Sunil_Privat_9iY</members>
+        <members>unfiled$public/New_Accounts_Report_Sunil_Private_nef</members>
+        <members>unfiled$public/New_Accounts_Report_jeS</members>
         <members>unfiled$public/flow_screen_prebuilt_report</members>
         <name>Report</name>
     </types>
